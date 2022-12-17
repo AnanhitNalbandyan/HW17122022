@@ -1,0 +1,7 @@
+   0 vi /tmp/file.txt
+   1 df -h /etc/group | head -2 >> /tmp/file.txt
+   2 nano /tmp/file.txt
+   3 ls -la
+   4 chmod u-r,ugo+x readme.txt
+   5 ls -la
+   6 history >> history.txt
